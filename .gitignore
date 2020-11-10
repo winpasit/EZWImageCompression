@@ -1,8 +1,4 @@
 .ipynb_checkpoints/*
 __pycache__/*
 zerotree_test.txt
-/*.png
-/*.jpg
-/*.ztc
-*.ipynb
-./DS_Store
+.DS_Store
